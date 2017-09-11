@@ -119,7 +119,7 @@ venueFeatures: ["3 huge cinema screens", "Doulby Digital Surround EX audio syste
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
 tweetsFeedTitle: "Notre tweets?"
-twitterHashTag: ""
+twitterHashTag: "Bangante"
 twitterFeed: "http://haideholdings.com/tweetledee/favoritesjson.php?cache_interval=300"
 
 # Partners Block
