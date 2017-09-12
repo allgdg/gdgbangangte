@@ -50,16 +50,16 @@ navigationLinks:
  - {permalink: "/logistics/", text: "Logistique"}
  - {permalink: "/hackathon/", text: "Hackathon"}
 bottomNavigationLinks:
- - {link: "\", text: "Devenir un sponsor"}
+ - {link: "#", text: "Devenir un sponsor"}
 rightNavigationButtons:
  - {link: "https://www.meetup.com/GDG-Bangangte", text: "Devenir membre"}
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "GDG Bangangté <typeout> "
+heroTitle: "GDG Bangangté <typeout> ouverte"
 #eventDate: "une communauté <typeout> de développeurs "
-typeoutTextValues: '"", "une communauté de développeurs"'
-typeoutFallback: "Season"
+typeoutTextValues: '"", "une communauté"'
+typeoutFallback: ""
 heroButtons:
  - {link: "https://www.meetup.com/GDG-Bangangte/", text: "Devenir membre"}
  - {permalink: "https://www.meetup.com/GDG-Bangangte/events/241932620/", text: "assister à DevFest"}
