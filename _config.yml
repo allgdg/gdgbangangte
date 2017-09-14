@@ -200,8 +200,8 @@ discusShortName: "devfestua"
 showSessions: true
 
 # Team Block
-teamBlockTitle: "About us"
-aboutUs: "Google's services have become synonymous with simple things online. Number of technological innovations and IT industries in which Google is creating new products is enormous. It's hard to get to know all of them, but realistic. This is why people have started to gather in small local groups and share their experience. Later, the following groups have been called Google Developer Groups. GDGs can take many forms -- from just a few people getting together to watch some videos, to large gatherings with demos, tech talks, hackathons and conferences."
+teamBlockTitle: "À propos de nous"
+aboutUs: "Les services de Google sont devenus synonymes de choses simples en ligne. Nombre d'innovations technologiques et d'industries informatiques dans lesquelles Google crée de nouveaux produits est énorme. Il est difficile de les connaître tous, mais réaliste. C'est pourquoi les gens ont commencé à se rassembler dans de petits groupes locaux et à partager leur expérience. Plus tard, les groupes suivants ont été appelés Google Developer Groups. Les GDG peuvent prendre plusieurs formes - à partir de quelques personnes se réunissant pour regarder des vidéos, de grands rassemblements avec des démonstrations, des conférences techniques, des hackathons et des conférences."
 
 # Logistics Find Way Block
 findWayTitle: "Find your way here"
