@@ -24,7 +24,7 @@ siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 organizerName: "GDG Bangangté"
 organizerAlternateName: "Google Developer Group Bangangté"
 organizerDescription: "Open and volunteer geek communities who create exciting projects and share experience about Google technology with passion."
-organizerEmail: "lviv@gdg.org.ua"
+organizerEmail: "mailto:kutnjemromeo@gmail.com"
 organizerLogo: "/img/seo/organizer-logo.png"
 organizerLink: "https://www.meetup.com/GDG-Bangangte/"
 
@@ -47,8 +47,6 @@ navigationLinks:
  - {permalink: "/schedule/", text: "programme"}
  - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/team/", text: "équipe"}
- - {permalink: "/logistics/", text: "Logistique"}
- - {permalink: "/hackathon/", text: "Hackathon"}
 bottomNavigationLinks:
  - {link: "#", text: "Devenir un sponsor"}
 rightNavigationButtons:
@@ -56,28 +54,28 @@ rightNavigationButtons:
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "GDG Bangangté <typeout> ouverte"
+heroTitle: "GDG Bangangté <typeout> ouvert"
 #eventDate: "une communauté <typeout> de développeurs "
 typeoutTextValues: '"", "une communauté"'
 typeoutFallback: ""
 heroButtons:
  - {link: "https://www.meetup.com/GDG-Bangangte/", text: "Devenir membre"}
- - {permalink: "https://www.meetup.com/GDG-Bangangte/events/241932620/", text: "assister à DevFest"}
+ - {permalink: "https://www.meetup.com/GDG-Bangangte/events/241932620/", text: "assister au DevFest"}
 
 # About Block
-aboutTitle: "About GDG DevFest"
+aboutTitle: "À propos de GDG Bangangté"
 aboutBlock:
- - {title: "Conference", image: "conference.jpg", text: "The biggest Google related event in the country carefully crafted for you by GDG community! Awesome speakers and lots of fun!" }
- - {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
- - {title: "Hackathon", image: "hackathon.jpg", text: "Full-day freestyle hackathon! Want some real team building on friday? Grab your team and join our hackathon!" }
+ - {title: "Conference", image: "conference.jpg", text: "Conférences sur les technologies de Google. Toutes les discussions sur le sujet d'Android, Web et Cloud." }
+ - {title: "Collaboration", image: "workshop.jpg", text: "FNous collaborons en tant que communauté et créons la diversité." }
+ - {title: "Échange", image: "hackathon.jpg", text: "Nous partageons des connaissances et créons des idées." }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "350", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
- - {count: "48", specialCharacter: "+", info: "hours", detail: "of pure Google technologies"}
- - {count: "20", specialCharacter: "+", info: "speakers", detail: "from country and beyond"}
- - {count: "3", specialCharacter: "", info: "parallel tracks", detail: "plus entertainment lounge"}
+ - {count: "350", specialCharacter: "+", info: "participants", detail: "de partout"}
+ - {count: "48", specialCharacter: "+", info: "heures", detail: "des technologies Google optimales"}
+ - {count: "20", specialCharacter: "+", info: "conférencier", detail: "avec des expériences complètes"}
+
 
 # Latest News Block
 latestNewsTitle: "Blog"
