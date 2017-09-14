@@ -66,7 +66,7 @@ heroButtons:
 aboutTitle: "À propos de GDG Bangangté"
 aboutBlock:
  - {title: "Conference", image: "conference.jpg", text: "Conférences sur les technologies de Google. Toutes les discussions sur le sujet d'Android, Web et Cloud." }
- - {title: "Collaboration", image: "workshop.jpg", text: "FNous collaborons en tant que communauté et créons la diversité." }
+ - {title: "Collaboration", image: "workshop.jpg", text: "Nous collaborons en tant que communauté et créons la diversité." }
  - {title: "Échange", image: "hackathon.jpg", text: "Nous partageons des connaissances et créons des idées." }
 
 # Statistic Block
