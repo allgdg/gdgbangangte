@@ -107,3 +107,45 @@
   complexity: "Expert"
   presentation: " "
   video: " "
+-
+  id: 011
+  title: "Starting Hackathon"
+  description: " "
+  subtype: presentation
+  speakers: [7]
+  language: en
+  complexity: "Expert"
+  presentation: " "
+  video: " "
+-
+  id: 012
+  title: "End of Hackathon and Jury"
+  description: " "
+  subtype: presentation
+  speakers: [7]
+  language: en
+  complexity: "Expert"
+  presentation: " "
+  video: " "
+
+-
+  id: 013
+  title: "Results and prices distribution"
+  description: " "
+  subtype: presentation
+  speakers: [7]
+  language: en
+  complexity: "Expert"
+  presentation: " "
+  video: ""
+
+-
+  id: 014
+  title: "Closing and happy moments"
+  description: " "
+  subtype: presentation
+  speakers: [7]
+  language: en
+  complexity: "Expert"
+  presentation: " "
+  video: ""

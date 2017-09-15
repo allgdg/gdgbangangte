@@ -14,7 +14,7 @@
   name: "Thierry"
   surname: "Saha"
   title: "Designer and Web Developer"
-  thumbnailUrl:
+  thumbnailUrl: saha.jpg
   team: true
   ribbon:
     - {abbr: "GDG", title: "Google Developer Group"}
@@ -25,7 +25,7 @@
   name: "Franck"
   surname: "Panta"
   title: "Sponsors and Speakers Manager"
-  thumbnailUrl:
+  thumbnailUrl: panta.jpg
   team: true
   ribbon:
     - {abbr: "GDG", title: "Google Developer Group"}
@@ -36,7 +36,7 @@
   name: "Celeo"
   surname: "Tchatchouang"
   title: "Android Program Committee"
-  thumbnailUrl:
+  thumbnailUrl: celeo.jpg
   subTeam: true
   social:
     - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}

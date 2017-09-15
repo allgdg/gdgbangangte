@@ -176,9 +176,7 @@ ticketsOffers:
 # Footer
 socialLinks:
  - {link: "plus.google.com/gdg-bangangte", icon: "google-plus"}
- - {link: "https://twitter.com/intent/user?screen_name=GDGLviv", icon: "twitter"}
  - {link: "https://www.facebook.com/gdgbangangte/", icon: "facebook"}
- - {permalink: "/feed.xml", icon: "rss"}
 footerBlocks:
  -
   title: "Autre liens"
@@ -188,7 +186,7 @@ footerBlocks:
  -
   title: "Contacts"
   links:
-   - {link: "mailto:lviv@gdg.org.ua", text: "lviv@gdg.org.ua"}
+   - {link: "mailto:kutnjemromeo@gmail.com", text: "kutnjemromeo@gmail.com"}
 
 
 # Blog
