@@ -13,7 +13,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 title: "GDG Bangangté"
 email: "devfest@gdg.org.ua"
 description: "GDG DevFest is a set of events all around the world"
-baseurl: "/gdgbangante"
+baseurl: "/gdgbagangte"
 url: "https://allgdg.github.io"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-43643469-5"
@@ -117,7 +117,7 @@ venueFeatures: ["3 huge cinema screens", "Doulby Digital Surround EX audio syste
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
 tweetsFeedTitle: "Notre tweets?"
-twitterHashTag: "Bangante"
+twitterHashTag: "Bangangté"
 twitterFeed: "http://haideholdings.com/tweetledee/favoritesjson.php?cache_interval=300"
 
 # Partners Block
@@ -192,7 +192,7 @@ footerBlocks:
 # Blog
 blogTitle: "Latest news"
 blogCommentsEnabled: true
-discusShortName: "gdg-bangante"
+discusShortName: "gdg-Bangangté"
 
 # Speakers List Block
 showSessions: true
