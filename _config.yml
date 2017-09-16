@@ -11,7 +11,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 # Site Settings
 title: "GDG Bangangté"
-email: "devfest@gdg.org.ua"
+email: "kutnjemromeo@gmail.com"
 description: "GDG DevFest is a set of events all around the world"
 baseurl: "/gdgbangangte"
 url: "https://allgdg.github.io"
