@@ -16,7 +16,7 @@
   company: ""
   title: "Android Developer"
   bio: ""
-  thumbnailUrl:
+  thumbnailUrl: celeo.jpg
   rockstar: true
   ribbon:
     - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/100229901424981095401/"}
@@ -29,7 +29,7 @@
   company: "Base CRM, GDG Krakow"
   title: "Software Engineer"
   bio: " "
-  thumbnailUrl:
+  thumbnailUrl: panta.jpg
   rockstar: true
   ribbon:
     - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/100229901424981095401/"}
@@ -40,7 +40,7 @@
   company: "GDG "
   title: " Android/Java Unit"
   bio: " "
-  thumbnailUrl:
+  thumbnailUrl: saha.jpg
   rockstar: true
   ribbon:
     - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/100229901424981095401/"}
