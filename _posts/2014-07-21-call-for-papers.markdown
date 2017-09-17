@@ -4,7 +4,7 @@ title:  "Call for Papers"
 date:   2017-08-12 09:00:00
 isStaticPost: false
 ---
-GDG DevFest Bangangté 2017 will be held 24-25th of October in ancient city of Bangangté. If you want to be part of this great event as a speaker you knocked at the good door.
+GDG DevFest Bangangté 2017 will be held 28-29th of October in ancient city of Bangangté. If you want to be part of this great event as a speaker you knocked at the good door.
 
 #### Presenters – who should speak at the DevFest Conference?
 
